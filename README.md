@@ -13,16 +13,8 @@ SMK Telkom Malang <br>
   
   * <b>screenshoot1
   
-    ![s1](https://user-images.githubusercontent.com/22114252/32687845-d9623c44-c6f7-11e7-88ac-7ed11384fd44.png)
+    ![1](https://user-images.githubusercontent.com/22114252/32688999-dbbcc084-c70d-11e7-9224-5960eaac7784.png)
     
   * Screenshoot2
     
-    ![s2](https://user-images.githubusercontent.com/22114252/32687842-d833781a-c6f7-11e7-9543-92eec2b87aab.png)
-    
-  * Screenshoot3
-  
-    ![s3](https://user-images.githubusercontent.com/22114252/32687843-d89448ca-c6f7-11e7-963e-542d8f3ad62c.png)
-    
-  * Screenshoot4
-  
-    ![s4](https://user-images.githubusercontent.com/22114252/32687844-d9007860-c6f7-11e7-8961-223cbc2afb0b.png)
+    ![2](https://user-images.githubusercontent.com/22114252/32688998-db350e14-c70d-11e7-815e-4bd4205020d6.png)
